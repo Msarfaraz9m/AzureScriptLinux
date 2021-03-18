@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/Msarfaraz9m/AzureScriptLinux/main/Install_web.sh"],
+  "commandToExecute": "./Install_web.sh"
+}
